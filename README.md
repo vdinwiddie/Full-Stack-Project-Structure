@@ -2,7 +2,7 @@
 
 **Q1:** At what time in the week would your group be available to meet online?\
 **Answer:**
-Our group would be avaiable to meet online on Fridays in the afternoon/evening. As well, we will have another weekly meeting during the weekend since we are most flexible then.
+Our group would be avaiable to meet online on Fridays in the afternoon/evening. Additionally, we will have another weekly meeting during the weekend since we are most flexible then.
 
 ---
 
@@ -37,7 +37,7 @@ Q3c: During business hours, within an hour. During off time, within 24 hours.
 **Q4b:** How will your group handle situations when a member is not contributing enough?  
 
 **Answer:**\
-**Q4a:** If there is disagreement on direction, we will simply hold a binary vote. There are 3 of us, so there cannot be a tiebreaker. Once the decision is made, we act accordingly. We understand nothing is personal, it just academic bureaucracy. Business, nothing personal. \
+**Q4a:** If there is disagreement on direction, we will simply hold a binary vote. There are 3 of us, so there cannot be a tiebreaker. Once the decision is made, we can act accordingly. We understand nothing is personal, it just academic bureaucracy. Business, nothing personal. \
 **Q4b:** If a group member is not contributing enough, we will make this clear to each other. We are all grown adults. We don't have to beat around the bush or give a run around. If there is an issue, we inform each other, constructively provided a timeline of what we would like done, shake hands, and walk away. Again, it's purely academic, nothing personal. And of course, this doesn't include the collaboration and assistance we provide to one another.
 
 ---
@@ -46,7 +46,7 @@ Q3c: During business hours, within an hour. During off time, within 24 hours.
 
 **Q5:** How will your group divide your role in the Group Project?\
 **Answer:**
-Vinnie has been designated as the Frontend specilist, Jewel has been appointed as the backend specialist, and I am just the projet support. Although this is a general idea of our individual directions, we plan total hands-on colloboration on all aspects of this project from everyone.
+Vinnie has been designated as the Frontend specialist, Jewel has been appointed as the backend specialist, and Isaac is the project support. Although this is a general idea of our individual directions, we plan to have total hands-on collaboration on all aspects of this project from everyone.
 
 ---
 
@@ -124,7 +124,7 @@ Yes, APIs like Mapbox and the Chicago Data Portal enforce rate limits (e.g., req
 **Q5: What authentication method will you use (e.g., username/password, OAuth, JWT)?**
 We will use username/password.
 **Q6: How will you store and protect sensitive user data (e.g., passwords, tokens)?**
-\We will protect it with tokens or hashing. Passwords and other sensitive data will never be stored as plaintext. 
+We will protect it with tokens or hashing. Passwords and other sensitive data will never be stored as plaintext. 
 ## Deployment
 
 **Q7: Where will you deploy your project (e.g., Heroku, AWS, Render)? How will you manage environment variables and secrets during deployment?**
